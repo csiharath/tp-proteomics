@@ -165,6 +165,9 @@ df = pandas.read_csv()
 
 Quel est le type de l'objet `df`?
 ```
+type(df)
+pandas.core.frame.DataFrame
+
 df est un dataframe
 ```
 
